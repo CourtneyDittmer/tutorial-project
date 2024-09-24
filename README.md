@@ -23,7 +23,7 @@ Running through [this](https://www.youtube.com/playlist?list=PLpVC00PAQQxGFC06mL
 
 ### Site Setup in Browser
 
-# TODO (Video 5)
+SuperUserLogin: testSuperUser, StrongPassword1!
 
 ## Composer vs. Drush
 
@@ -46,4 +46,6 @@ First, run `ddev ssh`. Then run `drush -V` to verify you have a current version 
 Guide found [here](https://www.drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer)
 
 
-ON VIDEO 7
+### Appearance
+
+Can upload custom logo and favicon through Appearance settings. Logos need to be resized before upload or size manually edited in file. If too large, Drupal will not give a warning but will just not display it.
